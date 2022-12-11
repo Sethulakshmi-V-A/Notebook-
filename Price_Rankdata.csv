@@ -1,0 +1,1001 @@
+id,Price_range,cost,price_rank
+1,3,Very high cost,876.5
+2,3,Very high cost,876.5
+3,2,high cost,621.5
+4,3,Very high cost,876.5
+5,1,Medium cost,372.0
+6,3,Very high cost,876.5
+7,3,Very high cost,876.5
+8,1,Medium cost,372.0
+9,3,Very high cost,876.5
+10,0,Low cost,127.0
+11,3,Very high cost,876.5
+12,3,Very high cost,876.5
+13,0,Low cost,127.0
+14,0,Low cost,127.0
+15,2,high cost,621.5
+16,0,Low cost,127.0
+17,2,high cost,621.5
+18,1,Medium cost,372.0
+19,3,Very high cost,876.5
+20,2,high cost,621.5
+21,1,Medium cost,372.0
+22,3,Very high cost,876.5
+23,1,Medium cost,372.0
+24,1,Medium cost,372.0
+25,3,Very high cost,876.5
+26,0,Low cost,127.0
+27,2,high cost,621.5
+28,0,Low cost,127.0
+29,2,high cost,621.5
+30,0,Low cost,127.0
+31,2,high cost,621.5
+32,0,Low cost,127.0
+33,3,Very high cost,876.5
+34,0,Low cost,127.0
+35,1,Medium cost,372.0
+36,1,Medium cost,372.0
+37,3,Very high cost,876.5
+38,1,Medium cost,372.0
+39,2,high cost,621.5
+40,1,Medium cost,372.0
+41,1,Medium cost,372.0
+42,2,high cost,621.5
+43,0,Low cost,127.0
+44,0,Low cost,127.0
+45,0,Low cost,127.0
+46,1,Medium cost,372.0
+47,0,Low cost,127.0
+48,3,Very high cost,876.5
+49,1,Medium cost,372.0
+50,2,high cost,621.5
+51,1,Medium cost,372.0
+52,0,Low cost,127.0
+53,2,high cost,621.5
+54,0,Low cost,127.0
+55,3,Very high cost,876.5
+56,1,Medium cost,372.0
+57,3,Very high cost,876.5
+58,1,Medium cost,372.0
+59,1,Medium cost,372.0
+60,3,Very high cost,876.5
+61,3,Very high cost,876.5
+62,2,high cost,621.5
+63,0,Low cost,127.0
+64,2,high cost,621.5
+65,1,Medium cost,372.0
+66,1,Medium cost,372.0
+67,1,Medium cost,372.0
+68,3,Very high cost,876.5
+69,1,Medium cost,372.0
+70,2,high cost,621.5
+71,1,Medium cost,372.0
+72,2,high cost,621.5
+73,2,high cost,621.5
+74,3,Very high cost,876.5
+75,3,Very high cost,876.5
+76,0,Low cost,127.0
+77,2,high cost,621.5
+78,0,Low cost,127.0
+79,2,high cost,621.5
+80,3,Very high cost,876.5
+81,0,Low cost,127.0
+82,3,Very high cost,876.5
+83,3,Very high cost,876.5
+84,0,Low cost,127.0
+85,3,Very high cost,876.5
+86,0,Low cost,127.0
+87,3,Very high cost,876.5
+88,1,Medium cost,372.0
+89,3,Very high cost,876.5
+90,0,Low cost,127.0
+91,1,Medium cost,372.0
+92,2,high cost,621.5
+93,2,high cost,621.5
+94,0,Low cost,127.0
+95,2,high cost,621.5
+96,1,Medium cost,372.0
+97,0,Low cost,127.0
+98,2,high cost,621.5
+99,1,Medium cost,372.0
+100,2,high cost,621.5
+101,1,Medium cost,372.0
+102,0,Low cost,127.0
+103,0,Low cost,127.0
+104,3,Very high cost,876.5
+105,1,Medium cost,372.0
+106,2,high cost,621.5
+107,0,Low cost,127.0
+108,1,Medium cost,372.0
+109,2,high cost,621.5
+110,3,Very high cost,876.5
+111,3,Very high cost,876.5
+112,3,Very high cost,876.5
+113,1,Medium cost,372.0
+114,3,Very high cost,876.5
+115,3,Very high cost,876.5
+116,3,Very high cost,876.5
+117,3,Very high cost,876.5
+118,1,Medium cost,372.0
+119,3,Very high cost,876.5
+120,0,Low cost,127.0
+121,0,Low cost,127.0
+122,3,Very high cost,876.5
+123,2,high cost,621.5
+124,1,Medium cost,372.0
+125,1,Medium cost,372.0
+126,0,Low cost,127.0
+127,3,Very high cost,876.5
+128,2,high cost,621.5
+129,3,Very high cost,876.5
+130,1,Medium cost,372.0
+131,0,Low cost,127.0
+132,2,high cost,621.5
+133,1,Medium cost,372.0
+134,1,Medium cost,372.0
+135,3,Very high cost,876.5
+136,1,Medium cost,372.0
+137,2,high cost,621.5
+138,0,Low cost,127.0
+139,3,Very high cost,876.5
+140,2,high cost,621.5
+141,1,Medium cost,372.0
+142,3,Very high cost,876.5
+143,1,Medium cost,372.0
+144,2,high cost,621.5
+145,2,high cost,621.5
+146,3,Very high cost,876.5
+147,3,Very high cost,876.5
+148,2,high cost,621.5
+149,2,high cost,621.5
+150,3,Very high cost,876.5
+151,2,high cost,621.5
+152,3,Very high cost,876.5
+153,0,Low cost,127.0
+154,0,Low cost,127.0
+155,2,high cost,621.5
+156,2,high cost,621.5
+157,3,Very high cost,876.5
+158,3,Very high cost,876.5
+159,3,Very high cost,876.5
+160,3,Very high cost,876.5
+161,2,high cost,621.5
+162,2,high cost,621.5
+163,3,Very high cost,876.5
+164,3,Very high cost,876.5
+165,3,Very high cost,876.5
+166,3,Very high cost,876.5
+167,1,Medium cost,372.0
+168,0,Low cost,127.0
+169,3,Very high cost,876.5
+170,0,Low cost,127.0
+171,0,Low cost,127.0
+172,0,Low cost,127.0
+173,1,Medium cost,372.0
+174,1,Medium cost,372.0
+175,0,Low cost,127.0
+176,1,Medium cost,372.0
+177,0,Low cost,127.0
+178,0,Low cost,127.0
+179,1,Medium cost,372.0
+180,2,high cost,621.5
+181,1,Medium cost,372.0
+182,0,Low cost,127.0
+183,0,Low cost,127.0
+184,1,Medium cost,372.0
+185,2,high cost,621.5
+186,2,high cost,621.5
+187,2,high cost,621.5
+188,1,Medium cost,372.0
+189,0,Low cost,127.0
+190,0,Low cost,127.0
+191,0,Low cost,127.0
+192,1,Medium cost,372.0
+193,0,Low cost,127.0
+194,3,Very high cost,876.5
+195,1,Medium cost,372.0
+196,0,Low cost,127.0
+197,2,high cost,621.5
+198,2,high cost,621.5
+199,2,high cost,621.5
+200,3,Very high cost,876.5
+201,1,Medium cost,372.0
+202,2,high cost,621.5
+203,2,high cost,621.5
+204,3,Very high cost,876.5
+205,3,Very high cost,876.5
+206,2,high cost,621.5
+207,2,high cost,621.5
+208,1,Medium cost,372.0
+209,0,Low cost,127.0
+210,0,Low cost,127.0
+211,1,Medium cost,372.0
+212,2,high cost,621.5
+213,0,Low cost,127.0
+214,2,high cost,621.5
+215,3,Very high cost,876.5
+216,3,Very high cost,876.5
+217,0,Low cost,127.0
+218,2,high cost,621.5
+219,0,Low cost,127.0
+220,3,Very high cost,876.5
+221,2,high cost,621.5
+222,3,Very high cost,876.5
+223,3,Very high cost,876.5
+224,0,Low cost,127.0
+225,0,Low cost,127.0
+226,1,Medium cost,372.0
+227,0,Low cost,127.0
+228,3,Very high cost,876.5
+229,0,Low cost,127.0
+230,1,Medium cost,372.0
+231,0,Low cost,127.0
+232,2,high cost,621.5
+233,2,high cost,621.5
+234,1,Medium cost,372.0
+235,3,Very high cost,876.5
+236,0,Low cost,127.0
+237,3,Very high cost,876.5
+238,0,Low cost,127.0
+239,3,Very high cost,876.5
+240,1,Medium cost,372.0
+241,2,high cost,621.5
+242,0,Low cost,127.0
+243,0,Low cost,127.0
+244,2,high cost,621.5
+245,1,Medium cost,372.0
+246,2,high cost,621.5
+247,2,high cost,621.5
+248,3,Very high cost,876.5
+249,1,Medium cost,372.0
+250,1,Medium cost,372.0
+251,3,Very high cost,876.5
+252,0,Low cost,127.0
+253,0,Low cost,127.0
+254,2,high cost,621.5
+255,3,Very high cost,876.5
+256,3,Very high cost,876.5
+257,1,Medium cost,372.0
+258,3,Very high cost,876.5
+259,1,Medium cost,372.0
+260,1,Medium cost,372.0
+261,3,Very high cost,876.5
+262,2,high cost,621.5
+263,1,Medium cost,372.0
+264,2,high cost,621.5
+265,3,Very high cost,876.5
+266,3,Very high cost,876.5
+267,3,Very high cost,876.5
+268,1,Medium cost,372.0
+269,0,Low cost,127.0
+270,1,Medium cost,372.0
+271,2,high cost,621.5
+272,3,Very high cost,876.5
+273,1,Medium cost,372.0
+274,1,Medium cost,372.0
+275,3,Very high cost,876.5
+276,2,high cost,621.5
+277,0,Low cost,127.0
+278,3,Very high cost,876.5
+279,0,Low cost,127.0
+280,1,Medium cost,372.0
+281,2,high cost,621.5
+282,0,Low cost,127.0
+283,0,Low cost,127.0
+284,3,Very high cost,876.5
+285,2,high cost,621.5
+286,3,Very high cost,876.5
+287,3,Very high cost,876.5
+288,2,high cost,621.5
+289,1,Medium cost,372.0
+290,3,Very high cost,876.5
+291,3,Very high cost,876.5
+292,2,high cost,621.5
+293,3,Very high cost,876.5
+294,2,high cost,621.5
+295,2,high cost,621.5
+296,1,Medium cost,372.0
+297,1,Medium cost,372.0
+298,0,Low cost,127.0
+299,2,high cost,621.5
+300,3,Very high cost,876.5
+301,1,Medium cost,372.0
+302,0,Low cost,127.0
+303,0,Low cost,127.0
+304,3,Very high cost,876.5
+305,0,Low cost,127.0
+306,3,Very high cost,876.5
+307,0,Low cost,127.0
+308,1,Medium cost,372.0
+309,2,high cost,621.5
+310,0,Low cost,127.0
+311,2,high cost,621.5
+312,3,Very high cost,876.5
+313,1,Medium cost,372.0
+314,3,Very high cost,876.5
+315,2,high cost,621.5
+316,2,high cost,621.5
+317,1,Medium cost,372.0
+318,2,high cost,621.5
+319,0,Low cost,127.0
+320,0,Low cost,127.0
+321,0,Low cost,127.0
+322,1,Medium cost,372.0
+323,3,Very high cost,876.5
+324,2,high cost,621.5
+325,0,Low cost,127.0
+326,0,Low cost,127.0
+327,0,Low cost,127.0
+328,3,Very high cost,876.5
+329,2,high cost,621.5
+330,0,Low cost,127.0
+331,3,Very high cost,876.5
+332,3,Very high cost,876.5
+333,1,Medium cost,372.0
+334,2,high cost,621.5
+335,3,Very high cost,876.5
+336,2,high cost,621.5
+337,3,Very high cost,876.5
+338,1,Medium cost,372.0
+339,3,Very high cost,876.5
+340,3,Very high cost,876.5
+341,2,high cost,621.5
+342,2,high cost,621.5
+343,2,high cost,621.5
+344,3,Very high cost,876.5
+345,3,Very high cost,876.5
+346,0,Low cost,127.0
+347,3,Very high cost,876.5
+348,0,Low cost,127.0
+349,3,Very high cost,876.5
+350,1,Medium cost,372.0
+351,3,Very high cost,876.5
+352,1,Medium cost,372.0
+353,3,Very high cost,876.5
+354,3,Very high cost,876.5
+355,0,Low cost,127.0
+356,1,Medium cost,372.0
+357,1,Medium cost,372.0
+358,3,Very high cost,876.5
+359,1,Medium cost,372.0
+360,3,Very high cost,876.5
+361,2,high cost,621.5
+362,3,Very high cost,876.5
+363,0,Low cost,127.0
+364,0,Low cost,127.0
+365,0,Low cost,127.0
+366,0,Low cost,127.0
+367,2,high cost,621.5
+368,0,Low cost,127.0
+369,0,Low cost,127.0
+370,2,high cost,621.5
+371,1,Medium cost,372.0
+372,1,Medium cost,372.0
+373,2,high cost,621.5
+374,2,high cost,621.5
+375,2,high cost,621.5
+376,0,Low cost,127.0
+377,1,Medium cost,372.0
+378,0,Low cost,127.0
+379,0,Low cost,127.0
+380,3,Very high cost,876.5
+381,2,high cost,621.5
+382,0,Low cost,127.0
+383,3,Very high cost,876.5
+384,1,Medium cost,372.0
+385,2,high cost,621.5
+386,2,high cost,621.5
+387,1,Medium cost,372.0
+388,2,high cost,621.5
+389,3,Very high cost,876.5
+390,1,Medium cost,372.0
+391,1,Medium cost,372.0
+392,2,high cost,621.5
+393,2,high cost,621.5
+394,1,Medium cost,372.0
+395,2,high cost,621.5
+396,0,Low cost,127.0
+397,1,Medium cost,372.0
+398,1,Medium cost,372.0
+399,0,Low cost,127.0
+400,3,Very high cost,876.5
+401,2,high cost,621.5
+402,0,Low cost,127.0
+403,0,Low cost,127.0
+404,1,Medium cost,372.0
+405,0,Low cost,127.0
+406,0,Low cost,127.0
+407,1,Medium cost,372.0
+408,1,Medium cost,372.0
+409,0,Low cost,127.0
+410,0,Low cost,127.0
+411,0,Low cost,127.0
+412,2,high cost,621.5
+413,2,high cost,621.5
+414,3,Very high cost,876.5
+415,2,high cost,621.5
+416,3,Very high cost,876.5
+417,0,Low cost,127.0
+418,2,high cost,621.5
+419,0,Low cost,127.0
+420,3,Very high cost,876.5
+421,0,Low cost,127.0
+422,1,Medium cost,372.0
+423,1,Medium cost,372.0
+424,1,Medium cost,372.0
+425,1,Medium cost,372.0
+426,0,Low cost,127.0
+427,3,Very high cost,876.5
+428,2,high cost,621.5
+429,3,Very high cost,876.5
+430,3,Very high cost,876.5
+431,1,Medium cost,372.0
+432,3,Very high cost,876.5
+433,1,Medium cost,372.0
+434,3,Very high cost,876.5
+435,1,Medium cost,372.0
+436,3,Very high cost,876.5
+437,2,high cost,621.5
+438,1,Medium cost,372.0
+439,2,high cost,621.5
+440,2,high cost,621.5
+441,1,Medium cost,372.0
+442,1,Medium cost,372.0
+443,0,Low cost,127.0
+444,0,Low cost,127.0
+445,0,Low cost,127.0
+446,1,Medium cost,372.0
+447,2,high cost,621.5
+448,1,Medium cost,372.0
+449,0,Low cost,127.0
+450,3,Very high cost,876.5
+451,2,high cost,621.5
+452,1,Medium cost,372.0
+453,2,high cost,621.5
+454,3,Very high cost,876.5
+455,0,Low cost,127.0
+456,0,Low cost,127.0
+457,3,Very high cost,876.5
+458,1,Medium cost,372.0
+459,1,Medium cost,372.0
+460,1,Medium cost,372.0
+461,2,high cost,621.5
+462,2,high cost,621.5
+463,3,Very high cost,876.5
+464,0,Low cost,127.0
+465,3,Very high cost,876.5
+466,0,Low cost,127.0
+467,2,high cost,621.5
+468,3,Very high cost,876.5
+469,2,high cost,621.5
+470,3,Very high cost,876.5
+471,0,Low cost,127.0
+472,2,high cost,621.5
+473,0,Low cost,127.0
+474,2,high cost,621.5
+475,3,Very high cost,876.5
+476,0,Low cost,127.0
+477,1,Medium cost,372.0
+478,1,Medium cost,372.0
+479,0,Low cost,127.0
+480,0,Low cost,127.0
+481,1,Medium cost,372.0
+482,1,Medium cost,372.0
+483,1,Medium cost,372.0
+484,3,Very high cost,876.5
+485,3,Very high cost,876.5
+486,3,Very high cost,876.5
+487,2,high cost,621.5
+488,3,Very high cost,876.5
+489,1,Medium cost,372.0
+490,1,Medium cost,372.0
+491,2,high cost,621.5
+492,2,high cost,621.5
+493,3,Very high cost,876.5
+494,3,Very high cost,876.5
+495,2,high cost,621.5
+496,0,Low cost,127.0
+497,2,high cost,621.5
+498,2,high cost,621.5
+499,2,high cost,621.5
+500,2,high cost,621.5
+501,1,Medium cost,372.0
+502,0,Low cost,127.0
+503,2,high cost,621.5
+504,2,high cost,621.5
+505,0,Low cost,127.0
+506,0,Low cost,127.0
+507,0,Low cost,127.0
+508,3,Very high cost,876.5
+509,1,Medium cost,372.0
+510,1,Medium cost,372.0
+511,2,high cost,621.5
+512,2,high cost,621.5
+513,2,high cost,621.5
+514,0,Low cost,127.0
+515,3,Very high cost,876.5
+516,0,Low cost,127.0
+517,2,high cost,621.5
+518,2,high cost,621.5
+519,0,Low cost,127.0
+520,3,Very high cost,876.5
+521,0,Low cost,127.0
+522,2,high cost,621.5
+523,3,Very high cost,876.5
+524,0,Low cost,127.0
+525,1,Medium cost,372.0
+526,1,Medium cost,372.0
+527,3,Very high cost,876.5
+528,3,Very high cost,876.5
+529,1,Medium cost,372.0
+530,1,Medium cost,372.0
+531,2,high cost,621.5
+532,3,Very high cost,876.5
+533,2,high cost,621.5
+534,0,Low cost,127.0
+535,2,high cost,621.5
+536,1,Medium cost,372.0
+537,3,Very high cost,876.5
+538,0,Low cost,127.0
+539,3,Very high cost,876.5
+540,3,Very high cost,876.5
+541,1,Medium cost,372.0
+542,2,high cost,621.5
+543,2,high cost,621.5
+544,2,high cost,621.5
+545,3,Very high cost,876.5
+546,0,Low cost,127.0
+547,1,Medium cost,372.0
+548,2,high cost,621.5
+549,3,Very high cost,876.5
+550,1,Medium cost,372.0
+551,3,Very high cost,876.5
+552,2,high cost,621.5
+553,3,Very high cost,876.5
+554,1,Medium cost,372.0
+555,1,Medium cost,372.0
+556,1,Medium cost,372.0
+557,0,Low cost,127.0
+558,3,Very high cost,876.5
+559,1,Medium cost,372.0
+560,0,Low cost,127.0
+561,3,Very high cost,876.5
+562,2,high cost,621.5
+563,3,Very high cost,876.5
+564,2,high cost,621.5
+565,0,Low cost,127.0
+566,3,Very high cost,876.5
+567,3,Very high cost,876.5
+568,3,Very high cost,876.5
+569,2,high cost,621.5
+570,3,Very high cost,876.5
+571,3,Very high cost,876.5
+572,1,Medium cost,372.0
+573,2,high cost,621.5
+574,0,Low cost,127.0
+575,2,high cost,621.5
+576,3,Very high cost,876.5
+577,3,Very high cost,876.5
+578,1,Medium cost,372.0
+579,0,Low cost,127.0
+580,1,Medium cost,372.0
+581,1,Medium cost,372.0
+582,2,high cost,621.5
+583,2,high cost,621.5
+584,1,Medium cost,372.0
+585,0,Low cost,127.0
+586,0,Low cost,127.0
+587,2,high cost,621.5
+588,2,high cost,621.5
+589,3,Very high cost,876.5
+590,2,high cost,621.5
+591,0,Low cost,127.0
+592,2,high cost,621.5
+593,1,Medium cost,372.0
+594,3,Very high cost,876.5
+595,3,Very high cost,876.5
+596,0,Low cost,127.0
+597,1,Medium cost,372.0
+598,3,Very high cost,876.5
+599,1,Medium cost,372.0
+600,2,high cost,621.5
+601,1,Medium cost,372.0
+602,0,Low cost,127.0
+603,0,Low cost,127.0
+604,0,Low cost,127.0
+605,2,high cost,621.5
+606,1,Medium cost,372.0
+607,0,Low cost,127.0
+608,1,Medium cost,372.0
+609,1,Medium cost,372.0
+610,2,high cost,621.5
+611,2,high cost,621.5
+612,0,Low cost,127.0
+613,2,high cost,621.5
+614,2,high cost,621.5
+615,1,Medium cost,372.0
+616,0,Low cost,127.0
+617,3,Very high cost,876.5
+618,0,Low cost,127.0
+619,0,Low cost,127.0
+620,3,Very high cost,876.5
+621,2,high cost,621.5
+622,0,Low cost,127.0
+623,0,Low cost,127.0
+624,0,Low cost,127.0
+625,0,Low cost,127.0
+626,0,Low cost,127.0
+627,3,Very high cost,876.5
+628,0,Low cost,127.0
+629,3,Very high cost,876.5
+630,1,Medium cost,372.0
+631,3,Very high cost,876.5
+632,2,high cost,621.5
+633,1,Medium cost,372.0
+634,3,Very high cost,876.5
+635,2,high cost,621.5
+636,0,Low cost,127.0
+637,2,high cost,621.5
+638,1,Medium cost,372.0
+639,3,Very high cost,876.5
+640,2,high cost,621.5
+641,2,high cost,621.5
+642,2,high cost,621.5
+643,0,Low cost,127.0
+644,3,Very high cost,876.5
+645,0,Low cost,127.0
+646,2,high cost,621.5
+647,0,Low cost,127.0
+648,2,high cost,621.5
+649,0,Low cost,127.0
+650,0,Low cost,127.0
+651,1,Medium cost,372.0
+652,1,Medium cost,372.0
+653,1,Medium cost,372.0
+654,2,high cost,621.5
+655,1,Medium cost,372.0
+656,3,Very high cost,876.5
+657,1,Medium cost,372.0
+658,3,Very high cost,876.5
+659,2,high cost,621.5
+660,2,high cost,621.5
+661,1,Medium cost,372.0
+662,3,Very high cost,876.5
+663,2,high cost,621.5
+664,0,Low cost,127.0
+665,1,Medium cost,372.0
+666,2,high cost,621.5
+667,0,Low cost,127.0
+668,3,Very high cost,876.5
+669,3,Very high cost,876.5
+670,0,Low cost,127.0
+671,2,high cost,621.5
+672,1,Medium cost,372.0
+673,1,Medium cost,372.0
+674,2,high cost,621.5
+675,0,Low cost,127.0
+676,3,Very high cost,876.5
+677,2,high cost,621.5
+678,0,Low cost,127.0
+679,3,Very high cost,876.5
+680,2,high cost,621.5
+681,3,Very high cost,876.5
+682,0,Low cost,127.0
+683,0,Low cost,127.0
+684,3,Very high cost,876.5
+685,0,Low cost,127.0
+686,1,Medium cost,372.0
+687,2,high cost,621.5
+688,3,Very high cost,876.5
+689,2,high cost,621.5
+690,2,high cost,621.5
+691,2,high cost,621.5
+692,2,high cost,621.5
+693,1,Medium cost,372.0
+694,2,high cost,621.5
+695,3,Very high cost,876.5
+696,0,Low cost,127.0
+697,1,Medium cost,372.0
+698,1,Medium cost,372.0
+699,1,Medium cost,372.0
+700,2,high cost,621.5
+701,1,Medium cost,372.0
+702,0,Low cost,127.0
+703,0,Low cost,127.0
+704,1,Medium cost,372.0
+705,0,Low cost,127.0
+706,0,Low cost,127.0
+707,3,Very high cost,876.5
+708,0,Low cost,127.0
+709,1,Medium cost,372.0
+710,1,Medium cost,372.0
+711,0,Low cost,127.0
+712,1,Medium cost,372.0
+713,1,Medium cost,372.0
+714,1,Medium cost,372.0
+715,3,Very high cost,876.5
+716,0,Low cost,127.0
+717,3,Very high cost,876.5
+718,2,high cost,621.5
+719,3,Very high cost,876.5
+720,0,Low cost,127.0
+721,0,Low cost,127.0
+722,1,Medium cost,372.0
+723,2,high cost,621.5
+724,2,high cost,621.5
+725,1,Medium cost,372.0
+726,0,Low cost,127.0
+727,1,Medium cost,372.0
+728,1,Medium cost,372.0
+729,0,Low cost,127.0
+730,1,Medium cost,372.0
+731,1,Medium cost,372.0
+732,0,Low cost,127.0
+733,0,Low cost,127.0
+734,3,Very high cost,876.5
+735,3,Very high cost,876.5
+736,0,Low cost,127.0
+737,3,Very high cost,876.5
+738,1,Medium cost,372.0
+739,2,high cost,621.5
+740,3,Very high cost,876.5
+741,0,Low cost,127.0
+742,1,Medium cost,372.0
+743,0,Low cost,127.0
+744,2,high cost,621.5
+745,2,high cost,621.5
+746,0,Low cost,127.0
+747,3,Very high cost,876.5
+748,1,Medium cost,372.0
+749,0,Low cost,127.0
+750,3,Very high cost,876.5
+751,0,Low cost,127.0
+752,1,Medium cost,372.0
+753,0,Low cost,127.0
+754,3,Very high cost,876.5
+755,3,Very high cost,876.5
+756,3,Very high cost,876.5
+757,2,high cost,621.5
+758,3,Very high cost,876.5
+759,0,Low cost,127.0
+760,3,Very high cost,876.5
+761,2,high cost,621.5
+762,0,Low cost,127.0
+763,1,Medium cost,372.0
+764,0,Low cost,127.0
+765,2,high cost,621.5
+766,3,Very high cost,876.5
+767,2,high cost,621.5
+768,0,Low cost,127.0
+769,2,high cost,621.5
+770,1,Medium cost,372.0
+771,3,Very high cost,876.5
+772,1,Medium cost,372.0
+773,0,Low cost,127.0
+774,3,Very high cost,876.5
+775,2,high cost,621.5
+776,0,Low cost,127.0
+777,3,Very high cost,876.5
+778,1,Medium cost,372.0
+779,2,high cost,621.5
+780,1,Medium cost,372.0
+781,1,Medium cost,372.0
+782,1,Medium cost,372.0
+783,3,Very high cost,876.5
+784,1,Medium cost,372.0
+785,1,Medium cost,372.0
+786,1,Medium cost,372.0
+787,2,high cost,621.5
+788,0,Low cost,127.0
+789,0,Low cost,127.0
+790,1,Medium cost,372.0
+791,2,high cost,621.5
+792,0,Low cost,127.0
+793,2,high cost,621.5
+794,0,Low cost,127.0
+795,0,Low cost,127.0
+796,0,Low cost,127.0
+797,0,Low cost,127.0
+798,3,Very high cost,876.5
+799,3,Very high cost,876.5
+800,3,Very high cost,876.5
+801,3,Very high cost,876.5
+802,0,Low cost,127.0
+803,1,Medium cost,372.0
+804,2,high cost,621.5
+805,2,high cost,621.5
+806,1,Medium cost,372.0
+807,0,Low cost,127.0
+808,0,Low cost,127.0
+809,2,high cost,621.5
+810,1,Medium cost,372.0
+811,0,Low cost,127.0
+812,2,high cost,621.5
+813,0,Low cost,127.0
+814,2,high cost,621.5
+815,2,high cost,621.5
+816,2,high cost,621.5
+817,1,Medium cost,372.0
+818,2,high cost,621.5
+819,0,Low cost,127.0
+820,2,high cost,621.5
+821,1,Medium cost,372.0
+822,3,Very high cost,876.5
+823,0,Low cost,127.0
+824,0,Low cost,127.0
+825,3,Very high cost,876.5
+826,1,Medium cost,372.0
+827,3,Very high cost,876.5
+828,0,Low cost,127.0
+829,0,Low cost,127.0
+830,2,high cost,621.5
+831,2,high cost,621.5
+832,2,high cost,621.5
+833,1,Medium cost,372.0
+834,2,high cost,621.5
+835,2,high cost,621.5
+836,1,Medium cost,372.0
+837,0,Low cost,127.0
+838,0,Low cost,127.0
+839,2,high cost,621.5
+840,3,Very high cost,876.5
+841,0,Low cost,127.0
+842,3,Very high cost,876.5
+843,0,Low cost,127.0
+844,0,Low cost,127.0
+845,0,Low cost,127.0
+846,2,high cost,621.5
+847,2,high cost,621.5
+848,1,Medium cost,372.0
+849,2,high cost,621.5
+850,0,Low cost,127.0
+851,3,Very high cost,876.5
+852,2,high cost,621.5
+853,1,Medium cost,372.0
+854,2,high cost,621.5
+855,3,Very high cost,876.5
+856,3,Very high cost,876.5
+857,0,Low cost,127.0
+858,1,Medium cost,372.0
+859,1,Medium cost,372.0
+860,2,high cost,621.5
+861,1,Medium cost,372.0
+862,2,high cost,621.5
+863,2,high cost,621.5
+864,0,Low cost,127.0
+865,1,Medium cost,372.0
+866,3,Very high cost,876.5
+867,1,Medium cost,372.0
+868,1,Medium cost,372.0
+869,3,Very high cost,876.5
+870,1,Medium cost,372.0
+871,2,high cost,621.5
+872,3,Very high cost,876.5
+873,1,Medium cost,372.0
+874,1,Medium cost,372.0
+875,1,Medium cost,372.0
+876,2,high cost,621.5
+877,3,Very high cost,876.5
+878,3,Very high cost,876.5
+879,0,Low cost,127.0
+880,3,Very high cost,876.5
+881,3,Very high cost,876.5
+882,0,Low cost,127.0
+883,2,high cost,621.5
+884,3,Very high cost,876.5
+885,2,high cost,621.5
+886,2,high cost,621.5
+887,2,high cost,621.5
+888,3,Very high cost,876.5
+889,2,high cost,621.5
+890,0,Low cost,127.0
+891,1,Medium cost,372.0
+892,2,high cost,621.5
+893,0,Low cost,127.0
+894,2,high cost,621.5
+895,1,Medium cost,372.0
+896,1,Medium cost,372.0
+897,2,high cost,621.5
+898,2,high cost,621.5
+899,2,high cost,621.5
+900,1,Medium cost,372.0
+901,2,high cost,621.5
+902,1,Medium cost,372.0
+903,0,Low cost,127.0
+904,1,Medium cost,372.0
+905,3,Very high cost,876.5
+906,1,Medium cost,372.0
+907,0,Low cost,127.0
+908,1,Medium cost,372.0
+909,2,high cost,621.5
+910,3,Very high cost,876.5
+911,1,Medium cost,372.0
+912,0,Low cost,127.0
+913,0,Low cost,127.0
+914,3,Very high cost,876.5
+915,2,high cost,621.5
+916,2,high cost,621.5
+917,3,Very high cost,876.5
+918,0,Low cost,127.0
+919,3,Very high cost,876.5
+920,3,Very high cost,876.5
+921,2,high cost,621.5
+922,1,Medium cost,372.0
+923,3,Very high cost,876.5
+924,0,Low cost,127.0
+925,1,Medium cost,372.0
+926,3,Very high cost,876.5
+927,1,Medium cost,372.0
+928,2,high cost,621.5
+929,1,Medium cost,372.0
+930,2,high cost,621.5
+931,3,Very high cost,876.5
+932,2,high cost,621.5
+933,0,Low cost,127.0
+934,3,Very high cost,876.5
+935,0,Low cost,127.0
+936,2,high cost,621.5
+937,3,Very high cost,876.5
+938,0,Low cost,127.0
+939,2,high cost,621.5
+940,2,high cost,621.5
+941,2,high cost,621.5
+942,3,Very high cost,876.5
+943,1,Medium cost,372.0
+944,1,Medium cost,372.0
+945,2,high cost,621.5
+946,3,Very high cost,876.5
+947,1,Medium cost,372.0
+948,0,Low cost,127.0
+949,2,high cost,621.5
+950,1,Medium cost,372.0
+951,2,high cost,621.5
+952,1,Medium cost,372.0
+953,3,Very high cost,876.5
+954,0,Low cost,127.0
+955,2,high cost,621.5
+956,2,high cost,621.5
+957,0,Low cost,127.0
+958,2,high cost,621.5
+959,3,Very high cost,876.5
+960,2,high cost,621.5
+961,3,Very high cost,876.5
+962,0,Low cost,127.0
+963,2,high cost,621.5
+964,1,Medium cost,372.0
+965,1,Medium cost,372.0
+966,2,high cost,621.5
+967,2,high cost,621.5
+968,3,Very high cost,876.5
+969,3,Very high cost,876.5
+970,0,Low cost,127.0
+971,2,high cost,621.5
+972,1,Medium cost,372.0
+973,2,high cost,621.5
+974,1,Medium cost,372.0
+975,3,Very high cost,876.5
+976,0,Low cost,127.0
+977,1,Medium cost,372.0
+978,3,Very high cost,876.5
+979,0,Low cost,127.0
+980,1,Medium cost,372.0
+981,0,Low cost,127.0
+982,0,Low cost,127.0
+983,3,Very high cost,876.5
+984,2,high cost,621.5
+985,2,high cost,621.5
+986,0,Low cost,127.0
+987,0,Low cost,127.0
+988,0,Low cost,127.0
+989,0,Low cost,127.0
+990,3,Very high cost,876.5
+991,2,high cost,621.5
+992,3,Very high cost,876.5
+993,3,Very high cost,876.5
+994,0,Low cost,127.0
+995,0,Low cost,127.0
+996,2,high cost,621.5
+997,1,Medium cost,372.0
+998,0,Low cost,127.0
+999,2,high cost,621.5
+1000,2,high cost,621.5
